@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 setup.py
 ISS/ISS_now.py
 ISS/__init__.py
